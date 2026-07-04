@@ -1,4 +1,5 @@
 # Week 1 Notes
+-Syllabus
 - Don't put code in a public repository
 - JUnit PowerPoint is no longer relevant
 - Unit tests
