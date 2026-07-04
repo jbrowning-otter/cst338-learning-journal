@@ -6,3 +6,6 @@
 - Git and GitHub
 - Discord link for the course
 - Professor wants comments included in submitted code
+- Encapsulation
+- access modifiers
+  
