@@ -14,3 +14,4 @@
 ## General
 
 - Continued becoming familiar with IntelliJ and GitHub Classroom
+- UML Review
